@@ -1,10 +1,8 @@
 #include<iostream>
+#include "paper.h"
 
 int main()
 {
-	using namespace std;
-	cout << "a";
-	cout << "b";
-	cout << "c";
+	abc();
 	return 11;
 }

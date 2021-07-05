@@ -1,6 +1,6 @@
 #include<iostream>
 
-
+int abc()
 {
 	using namespace std;
 	cout << "a";

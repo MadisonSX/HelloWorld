@@ -141,6 +141,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="myfirst.cpp" />
+    <ClCompile Include="paper.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="paper.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
